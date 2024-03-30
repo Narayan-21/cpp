@@ -2,6 +2,7 @@
 
 
 /// cout: console output
+/// statement after # are the preprocesser statement.
 /// endl : end line
 /// cin.get() : wait for us to press ENTER to move to the next line of the program
 /// By default, main() returns 0
